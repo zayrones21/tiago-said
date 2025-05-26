@@ -1,0 +1,10 @@
+header {
+    border-radius: 200px;
+    background-color: #d58337;
+    text-align:center
+    
+}
+body {
+    background: #DDA77A;
+    background: linear-gradient(90deg, rgba(221, 167, 122, 1) 0%, rgb(176, 112, 67) 50%);
+}
